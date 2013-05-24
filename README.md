@@ -9,12 +9,12 @@ _This idea and project is experimental in nature; its definitiion may change and
 
 
 ###Contributors
-* Tyler Bell ([@belltyler](http://twitter.com/belltyler), [http://initwithtyler.com/](http://initwithtyler.com/))
+* Tyler Bell (<a href="http://twitter.com/belltyler" target="_blank">@belltyler</a>, <a href="http://initwithtyler.com/" target="_blank">http://initwithtyler.com/</a>)
 
 ###Contact
-For any questions, feedback, comments or concerns, please do not hesitate to contact __Tyler Bell__ at __tyler [at] madebybell [dot] com__ and/or __tbell [at] iastate [dot] edu__. Thank you!
+For any questions, feedback, comments or concerns, please do not hesitate to contact __Tyler Bell__ at __tyler [at] madebybell [dot] com__ and/or __"tbell [at] iastate [dot] ed__>. Thank you!
 
 
-_Last updated: 05.23.2013_   
-_Date created: 05.23.2013_
+_This Document Last updated: 05.23.2013_   
+_This Document Date created: 05.23.2013_
 
